@@ -1,0 +1,13 @@
+This file contains some example unformatted text, exceeding 100 characters in line length. Below are
+some exception cases that this auto line length reformatter handles.
+
+Example sentences exceeding 100 character line length broken into new lines, without breaking during
+words.
+
+Example line where a single word is over 100 characters, exceeding the maximum line length allowed,
+but also not having any natural break points.
+1111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111
+1111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111
+111111111111111111111111111
+
+Feel free to add your own files, or edit this document and play around as you wish!
