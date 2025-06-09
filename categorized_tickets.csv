@@ -1,0 +1,51 @@
+id,description,category
+1,My laptop won't boot after the latest update,Hardware
+2,Printer is not printing and showing an error code,Hardware
+3,Need VPN access to work remotely,Access
+4,Request for permissions to access the shared drive,Access
+5,Software application crashes frequently during use,Software
+6,Windows update fails to install on my workstation,Software
+7,Forgot password and need a reset,Software
+8,Monitor is flickering and displaying distorted colors,Hardware
+9,Keyboard is unresponsive after a spill,Hardware
+10,Trouble connecting to the office Wi-Fi network,Network
+11,My Mac is overheating and shutting down unexpectedly,Other
+12,Adobe installer fails during software installation,Software
+13,Security alert: potential account compromise detected,Access
+14,Unable to login to my company email account,Software
+15,Requesting access to the internal portal for new project files,Access
+16,Printer jam in the lobby,Hardware
+17,Application freezes on startup and won't open,Software
+18,New employee workstation setup required,Other
+19,Lost a document stored on our cloud service,Other
+20,Two-factor authentication is not working correctly,Access
+21,VPN disconnects frequently during important calls,Access
+22,Company website is down,Other
+23,Slack messages are not sending properly,Software
+24,Teams meeting audio issues during conference calls,Software
+25,Outlook synchronization error with my calendar,Software
+26,Google Drive is not updating shared files,Network
+27,Cannot connect to the network printer from my desk,Hardware
+28,Smart card reader is not recognizing my badge,Other
+29,Desktop computer running slow and freezing,Other
+30,Received an IT system vulnerability alert email,Software
+31,Request for a new headset for clearer audio,Other
+32,Backup software is failing to complete scheduled tasks,Software
+33,Server disk space is full and needs to be cleared,Network
+34,Admin password reset required for security reasons,Software
+35,Data synchronization problem in the ERP system,Other
+36,Unable to access remote desktop from home,Access
+37,Unauthorized access attempt detected on my account,Access
+38,Cloud storage quota exceeded for team files,Other
+39,Error encountered during security patch installation,Software
+40,Inquiry about software license renewal process,Software
+41,Printer network error prevents printing from mobile devices,Hardware
+42,Request for system upgrade to the latest version,Other
+43,Slow internet connectivity affecting productivity,Network
+44,Security badge not working for office entry,Other
+45,Error during database backup causes data loss risk,Other
+46,Failed to update network drivers on workstation,Software
+47,Request to install new applications for the design team,Software
+48,File sharing service is down,Other
+49,Problem syncing calendar data between devices,Other
+50,System crash after update installation,Software
