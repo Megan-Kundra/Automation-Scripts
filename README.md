@@ -7,12 +7,17 @@ Repo contains various automation scripts.
       
   	    Ex. "My laptop won't boot after the latest update" --> Hardware
        
-2. **File Extension Modifier**
+2. **Invoice Parser**
+    -  Extracts the desired information from invoice .pdfs or other documents.
+      
+  	    Ex. Invoice.pdf --> Total Amount Due: ¥27,500   
+       
+3. **File Extension Modifier**
     - Changes all files of a specified type to a new file type, in a given folder.
       
   	    Ex. Change all .txt files → .md files
 
-3. **Line Length Reformatter**
+4. **Line Length Reformatter**
     - Formatt the lines of text in a file to a specified length. (Similar to adjusting document margins)
       
   	    Ex. Change the line length of a document to 100 characters long.
